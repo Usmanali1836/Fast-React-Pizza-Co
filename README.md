@@ -1,8 +1,27 @@
-# React + Vite
+# Fast React Pizza Co 🍕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Welcome to Fast React Pizza Co - Your Ultimate Online Pizza Ordering Platform! 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+Fast React Pizza Co is a web application developed using HTML, CSS, JavaScript, and React.js that brings a seamless and user-friendly online pizza ordering experience right to your fingertips.
+
+## Features
+- **Customize Your Pizza:** 
+- **User-Friendly Interface:** 
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+## Contributions
+Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to submit a pull request.
+
+
+## Author
+[Usman Ali]
+
+Happy Pizza Ordering! 🍕✨
+
